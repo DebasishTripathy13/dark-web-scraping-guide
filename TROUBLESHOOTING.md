@@ -672,7 +672,7 @@ Search for your problem - others may have encountered it.
 
 If you're still stuck:
 
-1. **Check the video** - [NetworkChuck Episode 480](https://www.youtube.com/watch?v=VIDEO_ID)
+1. **Check the video** - [NetworkChuck Episode 480](https://www.youtube.com/watch?v=_KzObeom88Y)
 2. **Review the documentation** - README.md, INSTALLATION.md, USAGE.md
 3. **Check GitHub Issues** - Someone may have solved your problem
 4. **Ask in YouTube comments** - Community support

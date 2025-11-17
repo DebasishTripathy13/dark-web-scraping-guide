@@ -71,7 +71,7 @@ Windows users must install WSL (Windows Subsystem for Linux) first:
 5. Complete the initial setup (create username/password)
 6. Continue with the installation steps below inside WSL
 
-For detailed WSL setup, see [NetworkChuck's WSL Video](https://www.youtube.com/watch?v=VIDEO_ID).
+For detailed WSL setup, search for "NetworkChuck WSL" on YouTube or check the [official Microsoft documentation](https://docs.microsoft.com/en-us/windows/wsl/install).
 
 ---
 

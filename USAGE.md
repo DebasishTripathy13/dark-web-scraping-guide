@@ -353,7 +353,7 @@ From Apurv's Interview:
 
 - Review [SAFETY.md](SAFETY.md) for critical legal and security guidelines
 - Check [TROUBLESHOOTING.md](TROUBLESHOOTING.md) if you encounter issues
-- Watch [NetworkChuck's Full Video](https://www.youtube.com/watch?v=VIDEO_ID) for visual walkthrough
+- Watch [NetworkChuck's Full Video](https://www.youtube.com/watch?v=_KzObeom88Y) for visual walkthrough
 
 ---
 

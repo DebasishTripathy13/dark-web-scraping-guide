@@ -8,9 +8,9 @@
 
 ## Watch the Full Video Tutorial
 
-[![Dark Web Expert's SECRET AI Tool (90% is FAKE)](https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+[![Dark Web Expert's SECRET AI Tool (90% is FAKE)](https://img.youtube.com/vi/_KzObeom88Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=_KzObeom88Y)
 
-**[Watch on YouTube →](https://www.youtube.com/watch?v=VIDEO_ID_HERE)**
+**[Watch on YouTube →](https://www.youtube.com/watch?v=_KzObeom88Y)**
 
 ---
 
