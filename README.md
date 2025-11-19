@@ -96,12 +96,12 @@ Creates a downloadable markdown report with all findings, perfect for importing 
 ## Credits
 
 ### Created By
-- **Tool Developer**: [Apurv](https://github.com/APURV-USERNAME) - Senior Threat Research Analyst
+- **Tool Developer**: [Apurv](https://github.com/apurvsinghgautam) - Senior Threat Research Analyst
 - **Video Tutorial**: [NetworkChuck](https://www.youtube.com/@NetworkChuck) - YouTube Creator
 - **Guide Author**: NetworkChuck Community
 
 ### Original Robin Repository
-The official Robin tool repository: [github.com/APURV-USERNAME/robin](https://github.com/APURV-USERNAME/robin)
+The official Robin tool repository: [github.com/APURV-USERNAME/robin](https://github.com/apurvsinghgautam/robin)
 
 **Named after:** The One Piece character Robin (Nico Robin), who has the ability to create eyes and ears anywhere to gather intelligence.
 
